@@ -1,0 +1,5 @@
+    WARNING: # (U+0023) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'Base' and VK_3, ShiftState 'Shift').
+    WARNING: | (U+007c) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'Shift' and VK_OEM_5, ShiftState 'Shift').
+    WARNING: \ (U+005c) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'Ctl+Alt' and VK_OEM_5, ShiftState 'Base').
+    WARNING: 'z' defined on Z (Base) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: 'Z' defined on Z (Shift) but not defined elsewhere. This key may not be present on all keyboards.

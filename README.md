@@ -6,11 +6,11 @@ Colemak-DH: [https://colemakmods.github.io/mod-dh/](https://colemakmods.github.i
 
 [Microsoft Keyboard Layout Creator 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
 
-Converts *.klc files to installer. See windows/installer/cdh_mbl2/setup.exe
+Converts *.klc files to installer. See windows/installer/cdh_mbl4/setup.exe
 
-![alt text](windows/pics/cdh_mbl2.jpg)
-![alt text](windows/pics/cdh_mbl2Shft.jpg)
-![alt text](windows/pics/cdh_mbl2AltGr.jpg)
+![alt text](windows/pics/cdh_mbl4.jpg)
+![alt text](windows/pics/cdh_mbl4Shft.jpg)
+![alt text](windows/pics/cdh_mbl4AltGr.jpg)
 
 ## Linux
 
